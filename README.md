@@ -42,3 +42,8 @@ based on features, making decisions at each node to reach a prediction at the le
 
 **Random Forest** : Random Forest is an ensemble learning method that uses multiple Decision Trees to improve predictions. It builds several trees
 and merges them to reduce overfitting and improve accuracy. It's robust, handles large datasets well, and provides feature importance estimates.
+
+**SVM** : Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used for both classification and regression tasks.
+It finds the hyperplane that best separates different classes in the feature space while maximizing the margin between them. SVM is effective
+in high-dimensional spaces and can handle complex datasets. It's also versatile, as it can use different kernel functions to handle non-linear relationships in the data.
+
