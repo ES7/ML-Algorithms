@@ -37,7 +37,8 @@ Then I will make a class for KMean which consist of a constructor and a function
 then after evaluation it will give a list of cluster centers closer to each datapoint. 
 
 
-**Neural Network** : For this model I will first create input layers using slicing method of Python. Then I will make a Sigmoid function,
-a derivative function and a class of neural network which will contain a constructor, activation function for the first layer, a backward
-propagation function which will calculate gradient of loss function and update function. 
+**Decision Tree** : A Decision Tree is a tree-like model used for classification and regression. It splits the data into smaller subsets
+based on features, making decisions at each node to reach a prediction at the leaf nodes. They're easy to interpret but can overfit with complex data.
 
+**Random Forest** : Random Forest is an ensemble learning method that uses multiple Decision Trees to improve predictions. It builds several trees
+and merges them to reduce overfitting and improve accuracy. It's robust, handles large datasets well, and provides feature importance estimates.
